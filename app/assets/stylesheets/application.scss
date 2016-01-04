@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+@import url(http://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,500); 
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import "bootstrap-sprockets";
+@import "bootstrap";
+ @import "font-awesome-sprockets";
+  @import "font-awesome";
+@import "normalize";
+@import "creative";
+@import "animate.min";
